@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "aiush334.aternos.me",
+    "port": 51140,
     "version": "1.21.1"
   },
   "position": {
